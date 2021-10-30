@@ -1,6 +1,6 @@
 /*============================================================
  # Template Name: Loxicat - Business Consulting HTML5 Template
- # Template URI: https://WavesFX.com/html/loxicat-html/
+ # Template URI: https://AnchorFx.com/html/loxicat-html/
  # Description: Business Consulting HTML5 Template
  # Author: Loxicat
  # Author URI: #
